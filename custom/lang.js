@@ -5,7 +5,7 @@ module.exports = {
 	BATDAU_OKAY : "[Chatbot] OK! Chúng mình sẽ thông báo khi tìm được \"đối\".",
 	BATDAU_WARN_GENDER : "[Chatbot] Lưu ý: Bạn không chọn giới tính. Có thể bạn sẽ phải đợi lâu hơn.",
 	BATDAU_ERR_ALREADY : "[Chatbot] Bạn không thể batdau khi chưa ketthuc...",
-	WAITING : "[Chatbot] Đang tìm bạn chat...",
+	WAITING : "[Chatbot] Đang tìm bạn chat cho bạn đây nè hihihi...",
 	START_CHAT : "[Chatbot] Connected! Nếu muốn kết thúc, hãy gửi ketthuc\nChúc 2 bạn nói chuyện vui vẻ :)",
 	END_CHAT : "[Chatbot] End chat! \nGửi batdau hoặc bấm vào nút để tìm bạn chat.",
 	ERR_UNKNOWN : "[Chatbot] Server xảy ra lỗi nhưng ko nghiêm trọng lắm\nHãy gửi ketthuc để thoát ra và thử lại",
